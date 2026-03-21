@@ -75,3 +75,9 @@ int main()<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;return 0;<br>
 }<br>
 
+
+<h2>입력 함수</h2>
+
+scanf은 입력 함수이다.<br>
+
+문자 마지막 입력 후 printf 있을 때에는 %c앞에 공백 하나 넣기<br>
