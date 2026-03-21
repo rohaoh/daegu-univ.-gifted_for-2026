@@ -63,3 +63,14 @@ int main()<br>
 | :--- | :----: | :----: |
 | 의미 | A와 B 모두 | A와 B 중 하나라도 |
 
+<h3>예제</h3>
+#include <<stdio.h>stdio.h><br>
+int main()<br>
+{<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;int a=5, b=5, c=6;<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;int value1, value2;<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;value1=(a==b && b==c);<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;value2=(a==b || b==c);<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;printf("%d %d", value1, value2);<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;return 0;<br>
+}<br>
