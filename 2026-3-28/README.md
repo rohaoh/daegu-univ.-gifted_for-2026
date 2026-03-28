@@ -17,3 +17,11 @@ int main()<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;printf("섭씨 온도:%d", num2);<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;return 0;<br>
 }<br>
+
+<h2>if 조건문</h2>
+if (data>140) printf("탑승가능")<br>
+if (data<140) printf("탑승불가")<br>
+코드가 길면<br>
+if (data>140){<br>
+	&nbsp;&nbsp;&nbsp;&nbsp;printf("탑승가능")<br>
+}<br>
