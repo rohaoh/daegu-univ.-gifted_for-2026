@@ -1,0 +1,24 @@
+#include <stdio.h>
+
+int main()
+{
+    int i, j, num;
+    printf("몇단계까지 입력? ");
+    scanf("%d", &num);
+
+    for(i = 0; i < num; i++)
+    {
+        for(j = 0; j < i; j++)
+        {
+            printf(" ");
+        }
+        for(j = 1; j <= num - i; j++)
+        {
+            printf("*");
+        }
+
+        printf("\n");
+    }
+
+    return 0;
+}
