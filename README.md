@@ -1,1 +1,0 @@
-# daegu-univ.-gifted_for-2026
