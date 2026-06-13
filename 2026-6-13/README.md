@@ -37,4 +37,7 @@ ex) DC모터, 서보모터, 스텝모터, LED, 3색 LED모듈, 도트매트릭�
 
 저항은 극이 없으므로 방향 상관없이 연결하면 되며, 전선은 전기를 전달하는 도체일 뿐 색상과는 무관. 아래의 표는 저항의 몸통에 있는 색상 띠로 저항의 크기를 구분하기 위한 코드표.
 
-[![daunlodeu.jpg](https://i.postimg.cc/9MxZCKYx/daunlodeu.jpg)](https://postimg.cc/sQhvJn8S)
+[![daunlodeu.jpg](https://i.postimg.cc/9MxZCKYx/daunlodeu.jpg)](https://postimg.cc/sQhvJn8S)  
+
+[팅커캐드](https://www.tinkercad.com/dashboard)  
+수업참여코드: JPA-Z3F-FSS
