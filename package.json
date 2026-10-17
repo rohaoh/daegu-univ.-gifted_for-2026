@@ -1,0 +1,21 @@
+{
+  "name": "app-client",
+  "version": "1.0.0",
+  "private": true,
+  "author": "오로하 (Oh Roha)",
+  "description": "Room environment dashboard for Arduino Uno and HC-06",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^44.8.0"
+  },
+  "dependencies": {
+    "@google/genai": "^2.30.0",
+    "serialport": "^13.0.0"
+  },
+  "allowScripts": {
+    "@serialport/bindings-cpp@13.0.0": true
+  }
+}
